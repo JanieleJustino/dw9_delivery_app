@@ -17,6 +17,7 @@ Desenvolvido em 5 dias, com mentoria de Rodrigo Rahman e tutores da Academia do 
 * Injeção de dependência: Provider.  
 * Navegação: Rotas nomeadas, navigator 2.0.  
 * Animação no cardápio: Hero.  
+* Ferramentas: VSCode(ide) | Postman(para o backend) | Figma(protótipo)  
 
 # Funcionalidades do APP  
 * Acessar o cardápio sem realizar login no APP.  
